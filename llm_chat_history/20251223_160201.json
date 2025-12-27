@@ -1,0 +1,14 @@
+{
+	"messages": [
+		{
+			"content": "Chat cleared. Previous conversation saved to history.",
+			"role": 2,
+			"timestamp": "16:02:01"
+		}
+	],
+	"model": "claude-sonnet-4-20250514",
+	"provider": 0,
+	"session_id": "20251223_160201",
+	"timestamp": 1766534521.83404,
+	"tokens_used": 0
+}
