@@ -1,0 +1,34 @@
+{
+	"messages": [
+		{
+			"content": "Welcome to LLM Chat Terminal v2!",
+			"role": 2,
+			"timestamp": "15:53:29"
+		},
+		{
+			"content": "Configure your API key in Settings to get started.",
+			"role": 2,
+			"timestamp": "15:53:29"
+		},
+		{
+			"content": "ERROR: API key not configured. Set it in Settings tab.",
+			"role": 2,
+			"timestamp": "15:54:57"
+		},
+		{
+			"content": "ERROR: API key not configured. Set it in Settings tab.",
+			"role": 2,
+			"timestamp": "15:56:13"
+		},
+		{
+			"content": "Loaded conversation from history.",
+			"role": 2,
+			"timestamp": "15:56:59"
+		}
+	],
+	"model": "claude-sonnet-4-20250514",
+	"provider": 0,
+	"session_id": "20251223_155329",
+	"timestamp": 1766534227.82073,
+	"tokens_used": 0
+}
